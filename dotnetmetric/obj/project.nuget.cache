@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "WjzN9sVnnJ9lxDc4oYtgVsBezolFJCJQbSmllvrEboNZAVaQWUnvFpejNy6cSKpejrG22sl96gce57UCmIVE2Q==",
+  "dgSpecHash": "qKFmTLxyri5vXvwIsdZsaoTOVoZYYY9AUKUa9onQjfZhZwOLcjo9CtTlW1fkW4NFpmF5AYH9awXN8rRjlLGzpA==",
   "success": true,
   "projectFilePath": "/Users/yoyofx/Projects/dotnetmetric/dotnetmetric/dotnetmetric.csproj",
   "expectedPackageFiles": [
@@ -23,7 +23,10 @@
     "/Users/yoyofx/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
     "/Users/yoyofx/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
     "/Users/yoyofx/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
-    "/Users/yoyofx/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+    "/Users/yoyofx/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "/Users/yoyofx/.nuget/packages/microsoft.netcore.app.runtime.linux-musl-x64/7.0.5/microsoft.netcore.app.runtime.linux-musl-x64.7.0.5.nupkg.sha512",
+    "/Users/yoyofx/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-musl-x64/7.0.5/microsoft.aspnetcore.app.runtime.linux-musl-x64.7.0.5.nupkg.sha512",
+    "/Users/yoyofx/.nuget/packages/microsoft.netcore.app.host.linux-musl-x64/7.0.5/microsoft.netcore.app.host.linux-musl-x64.7.0.5.nupkg.sha512"
   ],
   "logs": []
 }
